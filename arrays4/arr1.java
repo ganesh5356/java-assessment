@@ -1,8 +1,7 @@
 // Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order,
 // find two numbers such that they add up to a specific target number.
 // Return the indices of the two numbers added by one. Return -1 if pair does not exist.
-// import java.util.Scanner;
-
+import java.util.Scanner;
 public class demo8 {
     static String showpos(int[]arr,int t){
         int n=arr.length;
