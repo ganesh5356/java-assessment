@@ -1,4 +1,4 @@
-package recusions;
+//implement a recursion pgm for printing n natural number 
 
 import java.util.Scanner;
 
