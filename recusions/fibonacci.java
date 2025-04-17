@@ -1,5 +1,4 @@
-package recusions;
-
+//implement fibbonacci series using recursion
 import java.util.Scanner;
 
 public class fibonacci {
