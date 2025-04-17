@@ -1,4 +1,4 @@
-package recusions;
+//implement a recusion pgm to find the sum of n numbers
 
 import java.util.Scanner;
 
