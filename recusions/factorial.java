@@ -1,5 +1,5 @@
-package recusions;
 
+//implement factorial pgm using recursion
 import java.util.Scanner;
 
 public class factorial {
